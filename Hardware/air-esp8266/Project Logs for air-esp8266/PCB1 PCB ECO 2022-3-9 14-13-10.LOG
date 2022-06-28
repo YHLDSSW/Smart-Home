@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=nRST Pin=Q2-1
+Removed Pin From Net: NetName=RTS Pin=Q2-3
+Removed Pin From Net: NetName=GPIO0 Pin=Q3-1
+Removed Pin From Net: NetName=DTR Pin=Q3-3
+Removed Pin From Net: NetName=SW1 Pin=Q4-1
+Removed Pin From Net: NetName=GND Pin=Q4-3
+Removed Pin From Net: NetName=SW2 Pin=Q5-1
+Removed Pin From Net: NetName=GND Pin=Q5-3
+Removed Member From Class: ClassName=Sheet1 Member=Q5
+Change Component Comment : Designator=Q2 Old Comment=S8050 New Comment=Y1 NPN SOT23-3
+Change Component Comment : Designator=Q3 Old Comment=S8050 New Comment=Y1 NPN SOT23-3
+Change Component Comment : Designator=Q4 Old Comment=S8050 New Comment=Y1 NPN SOT23-3
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "SOT23-3M"; UniqueID = "\VGXNKFKZ" ("\VGXNKFKZ")
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "SOT23-3M"; UniqueID = "\ZQWVHSUC" ("\ZQWVHSUC")
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "SOT23-3M"; UniqueID = "\UAIWPPFI" ("\UAIWPPFI")
+Added Pin To Net: NetName=RTS Pin=Q1-2
+Added Pin To Net: NetName=nRST Pin=Q1-3
+Added Pin To Net: NetName=DTR Pin=Q2-2
+Added Pin To Net: NetName=GPIO0 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=SW1 Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=SW2 Pin=Q4-3
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R12-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R15-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R17-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R19-2
+Added Net: Name=NetQ4_1
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 Y1 NPN SOT23-3
+Added Room: Name=Sheet1

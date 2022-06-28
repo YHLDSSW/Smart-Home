@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetC3_1 Pin=P4-2
+Added Pin To Net: NetName=NetC3_1 Pin=U1-4
+Change Net Name : Old Net Name=NetC3_1 New Net Name=GPIO16
+Added Room: Name=light

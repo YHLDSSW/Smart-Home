@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GPIO16 Pin=P4-2
+Removed Pin From Net: NetName=GPIO16 Pin=U1-4
+Change Net Name : Old Net Name=GPIO16 New Net Name=NetC3_1
+Added Pin To Net: NetName=GPIO16 Pin=D1-2
+Added Pin To Net: NetName=GPIO16 Pin=P4-2
+Added Pin To Net: NetName=GPIO16 Pin=R8-2
+Added Pin To Net: NetName=GPIO16 Pin=U1-4
+Added Net: Name=GPIO16
+Added Room: Name=light

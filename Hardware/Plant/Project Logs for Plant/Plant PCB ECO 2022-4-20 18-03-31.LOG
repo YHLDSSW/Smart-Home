@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=B_IN1 Pin=U1-6
+Removed Pin From Net: NetName=B_IN2 Pin=U1-7
+Added Pin To Net: NetName=B_IN2 Pin=U1-6
+Added Pin To Net: NetName=B_IN1 Pin=U1-7
+Added Room: Name=Plant

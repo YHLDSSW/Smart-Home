@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=S1 Old Footprint=TSW SMD-6*6*5 New Footprint=TSW DIP-6*6*5
+Change Component Footprint: Designator=S2 Old Footprint=TSW SMD-6*6*5 New Footprint=TSW DIP-6*6*5
+Added Room: Name=Sheet1
